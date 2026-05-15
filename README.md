@@ -1,130 +1,95 @@
-<!-- Zivara – Mental Wellness Flutter App
-📱 Overview
-Zivara is a mental wellness mobile application developed using Flutter.
-It is designed to support users during stressful or emotional situations by providing calming tools, emergency support, and a personal safe space for meaningful memories.
-
-This project was developed as a major academic project to promote emotional well-being through accessible digital support.
-
-✨ Features
-🚨 Crisis Mode
-Provides immediate support during high-stress situations with quick-access calming tools and emergency options.
-
-🧘 Breathing & Relaxation Tools
-Guided breathing exercises and calming techniques to help users relax and regain control.
-
-🛟 Safe Haven (Memory Space)
-Allows users to store comforting photos and videos that help them feel safe and emotionally supported.
-
-📩 SOS Emergency Messaging
-Enables users to send emergency alerts to trusted contacts during distress.
-
-🎨 Calm UI Design
-White background
-
-Soft purple to blue gradient theme
-
-Minimal and user-friendly interface
-
-🛠 Tech Stack
-Framework: Flutter
-
-Language: Dart
-
-UI Design: Flutter Widgets
-
-Storage: Local Storage (Device-based)
-
-IDE: Android Studio / VS Code
-
-📂 Project Structure
-lib/ → Main application code
-assets/ → Images, videos, icons
-android/ → Android configuration
-ios/ → iOS configuration
-pubspec.yaml → Dependencies and assets
-README.md → Project documentation
-
-🚀 Getting Started
-Follow these steps to run the project locally:
-
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/zivara.git
-2️⃣ Navigate to Project Folder
-cd zivara
-3️⃣ Install Dependencies
-flutter pub get
-4️⃣ Run the App
-flutter run
-📸 Screenshots
-(Add screenshots of your app here)
-
-Example:
-
-Home Screen
-
-Crisis Mode Screen
-
-Safe Haven Screen
-
-SOS Feature
-
-🎯 Purpose of the Project
-The goal of Zivara is to provide users with simple and accessible tools that help them manage stress, anxiety, and emotional discomfort in daily life.
-
-⚠️ Disclaimer
-Zivara is designed for mental wellness support only.
-It does not provide medical or psychological advice and should not be used as a substitute for professional healthcare.
-
-In case of emergencies, users should contact official emergency services.
-
-👩‍💻 Developer
-Anshika Chopra
-B.Tech Computer Science Engineering
-IMS Engineering College
-
-📌 Future Enhancements
-
-Personalized wellness recommendations
-
-Music and meditation library
-
-⭐ Acknowledgment
-This project was developed as part of an academic major project to explore mobile application development using Flutter and to promote mental wellness awareness. -->
-
 # 📱 Zivara – Mental Wellness Flutter App
 
-Zivara is a mental wellness mobile application developed using **Flutter**. It is designed to support users during stressful or emotional situations by providing calming tools, emergency support, and a personal safe space for meaningful memories.
+[![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Language-Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
 
-> This project was developed as a major academic project to promote emotional well-being through accessible digital support.
+Zivara is a specialized mobile application designed to support users during stressful or emotional situations. By providing immediate calming tools, emergency support, and a personal "Safe Haven," Zivara empowers users to manage their mental well-being with accessible digital support.
 
 ---
 
-## ✨ Features
+## 📖 Table of Contents
+* [Key Features](#-key-features)
+* [Tech Stack](#-tech-stack)
+* [Project Structure](#-project-structure)
+* [Getting Started](#-getting-started)
+* [Safety Disclaimer](#-safety-disclaimer)
+* [Future Enhancements](#-future-enhancements)
 
-* **🚨 Crisis Mode:** Provides immediate support during high-stress situations with quick-access calming tools and emergency options.
-* **🧘 Breathing & Relaxation Tools:** Guided breathing exercises and calming techniques to help users relax and regain control.
-* **🛟 Safe Haven (Memory Space):** Allows users to store comforting photos and videos that help them feel safe and emotionally supported.
-* **📩 SOS Emergency Messaging:** Enables users to send emergency alerts to trusted contacts during distress.
-* **🎨 Calm UI Design:** * Minimal and user-friendly interface.
-    * Soft purple-to-blue gradient theme on a clean white background.
+---
+
+## ✨ Key Features
+
+| Feature | Description |
+| :--- | :--- |
+| **🚨 Crisis Mode** | Immediate access to calming tools and emergency options for high-stress moments. |
+| **🧘 Breathing Tools** | Guided breathing exercises and techniques to help users regain emotional control. |
+| **🛟 Safe Haven** | A personal memory space for comforting photos and videos to provide emotional support. |
+| **📩 SOS Messaging** | Quick-send emergency alerts to trusted contacts during moments of distress. |
+
+### 🎨 Design Philosophy
+* **Minimalist UI:** A clean white background to reduce cognitive load.
+* **Calm Palette:** A soft purple-to-blue gradient theme designed to be visually soothing.
 
 ---
 
 ## 🛠 Tech Stack
 
-| Component | Technology |
-| :--- | :--- |
-| **Framework** | Flutter |
-| **Language** | Dart |
-| **Storage** | Local Storage (Device-based) |
-| **IDE** | Android Studio / VS Code |
+- **Framework:** [Flutter](https://flutter.dev)
+- **Language:** [Dart](https://dart.dev)
+- **UI Architecture:** Flutter Material Widgets
+- **Storage:** Secure Local Storage (Device-based for maximum privacy)
 
 ---
 
+## 📂 Project Structure
+
+```bash
+Zivara/
+├── android/               # Android-specific configuration and native code
+├── assets/                # Media assets including icons, images, and videos
+├── ios/                   # iOS-specific configuration and native code
+├── lib/                   # Core application logic and UI source code (Dart)
+├── test/                  # Unit and widget tests for the application
+├── web/                   # Web-specific configuration for Flutter Web support
+├── .gitignore             # Files and directories to be ignored by Git
+├── analysis_options.yaml  # Linting rules for Dart code quality
+├── pubspec.yaml           # Project dependencies and asset management
+└── README.md              # Project documentation
+
 ## 🚀 Getting Started
 
-Follow these steps to run the project locally:
+Follow these steps to set up the project on your local machine:
 
-### 1. Clone the Repository
+### 1. Clone the Repository: 
 ```bash
 git clone [https://github.com/Anshikachopra/Zivara.git](https://github.com/Anshikachopra/Zivara.git)
+
+### 2. Navigate to the Directory: 
+```bash
+cd Zivara
+
+### 3. Install Dependencies:
+```bash
+flutter pub get
+
+### 4. Launch the Application:
+```bash
+flutter run
+
+## ⚠️ Safety Disclaimer
+
+Zivara is designed for mental wellness support only. It is not a substitute for professional medical or psychological advice, diagnosis, or treatment. In the event of a clinical emergency, users are urged to contact official emergency services or professional healthcare providers immediately.
+
+## 👩‍💻 Developer
+
+**Anshika Chopra** B.Tech Computer Science Engineering IMS Engineering College
+
+## 📌 Future Enhancements
+
+- Personalized wellness recommendations.
+- Curated meditation and ambient music library.
+- Dark mode support for night-time use.
+
+## ⭐ Acknowledgement
+
+This project was developed as a major academic project to explore mobile application development using Flutter while raising awareness for mental wellness.
