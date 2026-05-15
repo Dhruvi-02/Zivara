@@ -3,7 +3,7 @@
 [![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Language-Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
 
-Zivara is a specialized mobile application designed to support users during stressful or emotional situations. By providing immediate calming tools, emergency support, and a personal "Safe Haven," Zivara empowers users to manage their mental well-being with accessible digital support.
+Zivara is a specialized mobile application designed to support users during stressful or emotional situations. By providing immediate calming tools, emergency support and a personal "Safe Haven", Zivara empowers users to manage their mental well-being with accessible digital support.
 
 ---
 
@@ -23,7 +23,7 @@ Zivara is a specialized mobile application designed to support users during stre
 | :--- | :--- |
 | **🚨 Crisis Mode** | Immediate access to calming tools and emergency options for high-stress moments. |
 | **🧘 Breathing Tools** | Guided breathing exercises and techniques to help users regain emotional control. |
-| **🛟 Safe Haven** | A personal memory space for comforting photos and videos to provide emotional support. |
+| **🛡️ Safe Haven** | A personal memory space for comforting photos and videos to provide emotional support. |
 | **📩 SOS Messaging** | Quick-send emergency alerts to trusted contacts during moments of distress. |
 
 ---
@@ -67,7 +67,7 @@ Follow these steps to set up the project on your local machine:
 
 ### 1. Clone the Repository: 
 ```bash
-git clone [https://github.com/Anshikachopra/Zivara.git]
+git clone https://github.com/Anshikachopra/Zivara.git
 ```
 
 ### 2. Navigate to the Directory: 
