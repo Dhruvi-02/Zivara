@@ -26,6 +26,8 @@ Zivara is a specialized mobile application designed to support users during stre
 | **🛟 Safe Haven** | A personal memory space for comforting photos and videos to provide emotional support. |
 | **📩 SOS Messaging** | Quick-send emergency alerts to trusted contacts during moments of distress. |
 
+---
+
 ### 🎨 Design Philosophy
 * **Minimalist UI:** A clean white background to reduce cognitive load.
 * **Calm Palette:** A soft purple-to-blue gradient theme designed to be visually soothing.
@@ -57,6 +59,8 @@ Zivara/
 └── README.md              # Project documentation 
 ```
 
+---
+
 ## 🚀 Getting Started
 
 Follow these steps to set up the project on your local machine:
@@ -81,19 +85,27 @@ flutter pub get
 flutter run
 ```
 
+---
+
 ## ⚠️ Safety Disclaimer
 
 Zivara is designed for mental wellness support only. It is not a substitute for professional medical or psychological advice, diagnosis, or treatment. In the event of a clinical emergency, users are urged to contact official emergency services or professional healthcare providers immediately.
 
+---
+
 ## 👩‍💻 Developer
 
-**Anshika Chopra**: B.Tech Computer Science Engineering at IMS Engineering College
+**Anshika Chopra**: B.Tech. Computer Science Engineering at IMS Engineering College
+
+---
 
 ## 📌 Future Enhancements
 
 - Personalized wellness recommendations.
 - Curated meditation and ambient music library.
 - Dark mode support for night-time use.
+
+---
 
 ## ⭐ Acknowledgement
 
