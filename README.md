@@ -34,8 +34,8 @@ Zivara is a specialized mobile application designed to support users during stre
 
 ## 🛠 Tech Stack
 
-- **Framework:** [Flutter](https://flutter.dev)
-- **Language:** [Dart](https://dart.dev)
+- **Framework:** Flutter
+- **Language:** Dart
 - **UI Architecture:** Flutter Material Widgets
 - **Storage:** Secure Local Storage (Device-based for maximum privacy)
 
@@ -54,7 +54,8 @@ Zivara/
 ├── .gitignore             # Files and directories to be ignored by Git
 ├── analysis_options.yaml  # Linting rules for Dart code quality
 ├── pubspec.yaml           # Project dependencies and asset management
-└── README.md              # Project documentation
+└── README.md              # Project documentation 
+```
 
 ## 🚀 Getting Started
 
@@ -62,19 +63,23 @@ Follow these steps to set up the project on your local machine:
 
 ### 1. Clone the Repository: 
 ```bash
-git clone [https://github.com/Anshikachopra/Zivara.git](https://github.com/Anshikachopra/Zivara.git)
+git clone [https://github.com/Anshikachopra/Zivara.git]
+```
 
 ### 2. Navigate to the Directory: 
 ```bash
 cd Zivara
+```
 
 ### 3. Install Dependencies:
 ```bash
 flutter pub get
+```
 
 ### 4. Launch the Application:
 ```bash
 flutter run
+```
 
 ## ⚠️ Safety Disclaimer
 
@@ -82,7 +87,7 @@ Zivara is designed for mental wellness support only. It is not a substitute for 
 
 ## 👩‍💻 Developer
 
-**Anshika Chopra** B.Tech Computer Science Engineering IMS Engineering College
+**Anshika Chopra**: B.Tech Computer Science Engineering at IMS Engineering College
 
 ## 📌 Future Enhancements
 
