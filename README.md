@@ -1,4 +1,4 @@
-Zivara – Mental Wellness Flutter App
+<!-- Zivara – Mental Wellness Flutter App
 📱 Overview
 Zivara is a mental wellness mobile application developed using Flutter.
 It is designed to support users during stressful or emotional situations by providing calming tools, emergency support, and a personal safe space for meaningful memories.
@@ -89,4 +89,42 @@ Personalized wellness recommendations
 Music and meditation library
 
 ⭐ Acknowledgment
-This project was developed as part of an academic major project to explore mobile application development using Flutter and to promote mental wellness awareness.
+This project was developed as part of an academic major project to explore mobile application development using Flutter and to promote mental wellness awareness. -->
+
+# 📱 Zivara – Mental Wellness Flutter App
+
+Zivara is a mental wellness mobile application developed using **Flutter**. It is designed to support users during stressful or emotional situations by providing calming tools, emergency support, and a personal safe space for meaningful memories.
+
+> This project was developed as a major academic project to promote emotional well-being through accessible digital support.
+
+---
+
+## ✨ Features
+
+* **🚨 Crisis Mode:** Provides immediate support during high-stress situations with quick-access calming tools and emergency options.
+* **🧘 Breathing & Relaxation Tools:** Guided breathing exercises and calming techniques to help users relax and regain control.
+* **🛟 Safe Haven (Memory Space):** Allows users to store comforting photos and videos that help them feel safe and emotionally supported.
+* **📩 SOS Emergency Messaging:** Enables users to send emergency alerts to trusted contacts during distress.
+* **🎨 Calm UI Design:** * Minimal and user-friendly interface.
+    * Soft purple-to-blue gradient theme on a clean white background.
+
+---
+
+## 🛠 Tech Stack
+
+| Component | Technology |
+| :--- | :--- |
+| **Framework** | Flutter |
+| **Language** | Dart |
+| **Storage** | Local Storage (Device-based) |
+| **IDE** | Android Studio / VS Code |
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/Anshikachopra/Zivara.git](https://github.com/Anshikachopra/Zivara.git)
